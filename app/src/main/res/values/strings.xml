@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Assignment1_3</string>
+    <string name="top">TOP</string>
+    <string name="bottom">Bottom</string>
+    <string name="center">Center</string>
+    <string name="r2">R2</string>
+    <string name="r1">R1</string>
+    <string name="l2">L2</string>
+    <string name="l1">L1</string>
+</resources>
